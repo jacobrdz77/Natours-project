@@ -1,0 +1,19 @@
+{
+  "name": "natours-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass -w sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobrdz77/Natours-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobrdz77/Natours-project/issues"
+  },
+  "homepage": "https://github.com/jacobrdz77/Natours-project#readme"
+}
