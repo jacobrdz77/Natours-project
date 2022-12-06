@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "sass -w sass/main.scss css/style.css"
+    "compile:sass": "sass scss/main.scss css/styles.css"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jacobrdz77/Natours-project/issues"
   },
-  "homepage": "https://github.com/jacobrdz77/Natours-project#readme"
+  "homepage": "https://github.com/jacobrdz77/Natours-project#readme",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
 }
